@@ -69,3 +69,4 @@ Note: This software is under development I am solving some bugs dont use it on i
 ![](https://img.shields.io/badge/Library-io-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 Webhook test triggered
 Webhook final test
+Auto trigger test final
