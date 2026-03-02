@@ -2,6 +2,11 @@ node('agent') {
 
     try {
 
+        stage('Checkout') {
+            git branch: 'main',
+                url: 'https://github.com/siddhhhhh/File-Encrypter.git'
+        }
+
         stage('Build') {
             sh '''
             cd "Password Protection"
